@@ -47,6 +47,9 @@ git clone [https://github.com/yourusername/digital-animated-clock.git](https://g
 Uploading the Code
 
 Open the project in Arduino IDE
+
 Install required libraries
+
 Select ESP32 Dev Module
+
 Upload the code
